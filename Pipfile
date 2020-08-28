@@ -9,6 +9,9 @@ verify_ssl = true
 jupyter = "*"
 lab = "*"
 nbconvert = "*"
+ipykernel = "*"
+sklearn = "*"
+seaborn = "*"
 
 [requires]
 python_version = "3.7"
