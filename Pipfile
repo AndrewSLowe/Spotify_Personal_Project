@@ -12,6 +12,8 @@ nbconvert = "*"
 ipykernel = "*"
 sklearn = "*"
 seaborn = "*"
+sqlite3 = "*"
+sqlite = "*"
 
 [requires]
 python_version = "3.7"
